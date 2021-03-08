@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+#myVideo {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
+.content {
+	position: fixed;
+	bottom: 0;
+	background: rgba(0, 0, 0, 0);
+	color: #f1f1f1;
+	width: 100%;
+	padding: 20px;
+}
+.back-home {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+.back-home a img {
+	border-radius: 100px;
+}

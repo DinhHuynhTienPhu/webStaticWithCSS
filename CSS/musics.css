@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body{font-weight:bold;}
+a {
+	text-decoration: none;
+	color: #152988;
+	font-size: 18px;
+}
+a:hover{
+		color: #3F0;
+	}
+table,th,tr {
+	border: 1px solid black;
+	text-align: center;
+}
+tr{
+	border:1px solid black;
+	
+	}
+.container {
+	border: 1px solid black;
+}

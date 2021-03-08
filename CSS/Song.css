@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	align-items: center;
+	justify-content: center;
+	overflow: scroll;
+	background-image:url(../background.jpg);
+}
+.back-home a img{ border-radius:100px;}
+.card {
+	width: 400px;
+	height: 500px;
+	background-color: #F7DBDB;
+	border-radius: 18px;
+	margin: auto;
+	box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+}
+ a {
+	text-decoration: none;
+	color: #FFF;
+	font-weight:900;
+	font-size:30px;
+		
+}
+.song-name {
+	color: #000;
+	text-align: center;
+	font-size: 30px;
+	margin:auto;
+	
+}
+
+p {
+	text-align: center;
+	font-size:16px;
+	color:gray;
+	margin:25px;
+	grid-area: text;
+}
+.card .song-avt{
+	width:400;
+	height:300;
+}
