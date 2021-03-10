@@ -7,10 +7,18 @@ body {
 	overflow: scroll;
 	background-image:url(../background.jpg);
 }
+p {
+	text-align: center;
+	font-size:16px;
+	color:gray;
+	margin:25px;
+	grid-area: text;
+}
+.back-home{padding: 2%;}
 .back-home a img{ border-radius:100px;}
 .card {
 	width: 400px;
-	height: 500px;
+	height: 550px;
 	background-color: #F7DBDB;
 	border-radius: 18px;
 	margin: auto;
@@ -24,10 +32,11 @@ body {
 		
 }
 .song-name {
+	padding: 5%;
 	color: #000;
 	text-align: center;
 	font-size: 30px;
-	margin:auto;
+	margin:1%;
 	
 }
 
